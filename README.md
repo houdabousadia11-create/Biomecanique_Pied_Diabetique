@@ -7,6 +7,8 @@ Calibration personnalisée, détection des zones à risque, validation statistiq
 
 ---
 
+# NOTE IMPORTANTE : Il faut télécharger le Logo.png pour générer les rapports.
+
 ## 📦 Bibliothèques requises
 
 ### Installation rapide
